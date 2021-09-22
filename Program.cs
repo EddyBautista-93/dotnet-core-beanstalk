@@ -12,11 +12,11 @@ namespace dotnet_core_beanstalk
         static void Main(string[] args)
         {
             var host = new WebHostBuilder()
-            .useKestrel()
-            .UseContentRoot(Directory.GetCurrentDirectory())
-            .UseIISIntegration()
-            .UseStartup<Startup>()
-            .Build();
+              .UseKestrel()
+              .UseContentRoot(Directory.GetCurrentDirectory())
+              .UseIISIntegration()
+              .UseStartup<Startup>()
+              .Build();
 
             host.Run();
         }
