@@ -1,0 +1,16 @@
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\bin\Debug\net5.0\dotnet-core-beanstalk.exe
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\bin\Debug\net5.0\dotnet-core-beanstalk.deps.json
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\bin\Debug\net5.0\dotnet-core-beanstalk.runtimeconfig.json
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\bin\Debug\net5.0\dotnet-core-beanstalk.runtimeconfig.dev.json
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\bin\Debug\net5.0\dotnet-core-beanstalk.dll
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\bin\Debug\net5.0\ref\dotnet-core-beanstalk.dll
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\bin\Debug\net5.0\dotnet-core-beanstalk.pdb
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\obj\Debug\net5.0\dotnet-core-beanstalk.csprojAssemblyReference.cache
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\obj\Debug\net5.0\dotnet-core-beanstalk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\obj\Debug\net5.0\dotnet-core-beanstalk.AssemblyInfoInputs.cache
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\obj\Debug\net5.0\dotnet-core-beanstalk.AssemblyInfo.cs
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\obj\Debug\net5.0\dotnet-core-beanstalk.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\obj\Debug\net5.0\dotnet-core-beanstalk.dll
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\obj\Debug\net5.0\ref\dotnet-core-beanstalk.dll
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\obj\Debug\net5.0\dotnet-core-beanstalk.pdb
+C:\Users\bauti\source\repos\aws-blogapp\dotnet-core-beanstalk\obj\Debug\net5.0\dotnet-core-beanstalk.genruntimeconfig.cache
